@@ -1,0 +1,22 @@
+{
+  "name": "deployment",
+  "version": "1.0.0",
+  "description": "This is A todolist app",
+  "main": "server.js",
+  "engines": {
+    "node": ">=8.0.0 <=14.5.0"
+  },
+
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "node": "^14.8.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "A.daim",
+  "license": "ISC"
+}
